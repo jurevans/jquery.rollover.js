@@ -1,0 +1,16 @@
+/**
+ * @author Justin Evans
+ */
+
+jquery.rollover.js
+
+Extends the functionality of Cufon.js to generate rollover
+states using class selectors
+
+jQuery Plugin to work with SVG/VML rendered link rollovers
+Generates rollover states for <canvas> and VML rendered text
+
+
+Requires http://cufon.shoqolate.com/js/cufon-yui.js
+
+
